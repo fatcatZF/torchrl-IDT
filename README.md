@@ -1,2 +1,2 @@
 # torchrl-IDT
-Implemening CI/CD/CT pipeline for Torch RL
+Implemening CI/CD/CT pipeline using torchrl
